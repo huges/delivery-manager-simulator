@@ -56,7 +56,7 @@ const quotes = [
     "Non è un bug, è una feature.",
     "Noemi, metti 3 punti e chiudi la schedina.",
     "Fai testare alla Cevolani, che è sul pezzo",
-    "Giulia, falliscono i test su Octopus, prova a rilanciarli.",
+    "Giulia, falliscono i test Cypress su Jenkins, prova a rilanciare la build.",
     "Se il deploy fallisce, chiedi a Julio!",
     "La sitemap non si aggiorna da 3 mesi? Scrivi a Crabu, si sarà bloccata la replica.",
     "Se si tratta di Algolia, ora devi parlare con Alberto.",
