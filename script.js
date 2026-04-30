@@ -8,31 +8,31 @@ const quotes = [
     "Mmm... No.",
     "Non credo.",
     "È impossibile.",
-
+    "Non è fattibile.",
     "È colpa del CMS service.",
     "Deve essere colpa di Bagnasco.",
     "Avete sentito CampDev.",
-
+    "Dite a Isabella che le stime le ha fatte Ablerto.",
     "Senti Alberto.",
     "Chiedi a Paolo.",
     "Il menù lo fa Giulia.",
     "Dite a Isabella di fare deploy.",
-
+    "Laura ha detto che è la priorità unissimo.",
     "Col tempo e la pazienza si può fare tutto.",
     "Sono 50 euro.",
     "Il legacy non perdona.",
     "Ogni bug ha una sua dignità.",
-
+    "Basta ora dovrà fare la badante a Paolo.",
     "Questo in produzione non mi piace.",
     "Qui sento odore di workaround.",
     "Apriamo un ticket.",
     "Mi sembra ottimismo prematuro.",
-
+    "Adesso i bannner in preview può allestirli Manu.",
     "Se lo facciamo bene costa il doppio.",
     "Non è un problema tecnico, è organizzativo.",
     "State sottovalutando il rischio.",
     "Prima sentiamo Paolo.",
-
+    "Chiedi a Manuela che sa tutto del Menu.",
     "Non è un bug. È comportamento emergente.",
     "Questa la paghiamo tra sei mesi.",
     "Facciamo un preventivo e ne riparliamo.",
@@ -80,6 +80,7 @@ const miracleQuotes = [
     "Dallo showcase non sono arrivate richieste di modifica? Ce le chiederanno appena andiamo in produzione.",
     "Andiamo online prima che se ne accorgano.",
     "Carrelli a zero, forse è il caso di scrivere al NOC.",
+    "Mi piace la proposta di UX, peccato che non abbiamo i dati che vorrebbero  mostrare.",
 ];
 /*
 function getRandomQuote(){
